@@ -53,6 +53,7 @@ PARSERS = {
     ".tsx": "typescript",
     ".ts": "typescript",
     ".yaml": "yaml",
+    ".sol": "solidity"
 }
 
 

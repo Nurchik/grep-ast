@@ -13,7 +13,7 @@ setup(
     name="grep-ast",
     version="0.4.1",
     description="A tool to grep through the AST of a source file",
-    url="https://github.com/paul-gauthier/grep-ast",
+    url="https://github.com/Nurchik/grep-ast",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),
